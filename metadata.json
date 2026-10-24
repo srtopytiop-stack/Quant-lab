@@ -1,0 +1,6 @@
+{
+  "name": "Quantitative Research & Risk Dashboard",
+  "description": "لوحة أبحاث وتحليل المخاطر الكمية (AQDE-Core) - محرك مالي حتمي متعدد الوكلاء مزود بحارس مخاطر برمجي مستقل واختبار استراتيجيات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
